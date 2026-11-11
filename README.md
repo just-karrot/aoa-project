@@ -23,8 +23,6 @@ aoa-project/
 ├── run_evaluation.py       # Standalone execution and graphing script
 ├── requirements.txt        # Minimal dependencies (matplotlib, pytest)
 ├── README.md               # Quickstart guide & documentation
-├── REPORT.md               # Detailed academic report (Markdown format)
-└── REPORT.txt              # Detailed academic report (Plain text format)
 ```
 
 ---
